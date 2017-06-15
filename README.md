@@ -15,3 +15,4 @@ Ilustrates how to configure a libGDX project to work with augmented reality. Fro
 
 More complicated stuff like animations and splash screen can be found in the in trascendentAR main repository https://github.com/GLUD/trascendentAR
 
+![Showcase](https://raw.githubusercontent.com/GLUD/trascendentAR/gh-pages/docs/images/simpleapp_output.png)
